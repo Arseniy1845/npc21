@@ -1,0 +1,53 @@
+.text3 {
+    font-size: 20px;
+    display: inline-block;
+    width: 1150px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.how {
+    width: 1150px;
+    margin-bottom: 30px;
+}
+.text3>h2 {
+    margin-bottom: 15px;
+}
+.text3>hr {
+    margin-bottom: 15px;
+}
+.how>p {
+    width: 300px;
+    display: inline-block;
+}
+.how>img {
+    display: inline-block;
+}
+#m1 {
+    width: 150px;
+    margin-right: 20px;
+    height: 120px;
+}
+#m2 {
+    width: 150px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+#m3 {
+    width: 150px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+#m4 {
+    width: 150px;
+    margin-top: 10px;
+    height: 120px;
+}
+.footer {
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: rgb(255, 127, 35);
+    margin-top: 430px;
+}
